@@ -1,8 +1,8 @@
 # program file
-![program file]{FCFS.py}
+![program file](FCFS.py)
 
 #sample output
-![sample output]{ExecutedOutput.png}
+![sample output](ExecutedOutput.png)
 
 #Program Code
-![program code]{programCode.png}
+![program code](programCode.png)
