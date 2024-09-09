@@ -2,7 +2,7 @@
 ![MFT](MFT.py)
 
 #Program Code
-![MFTCode](MFTcode.png)
+![MFTCode](MFTCODE.png)
 
 #Output
 ![MFTresult](MFTresult.png)
